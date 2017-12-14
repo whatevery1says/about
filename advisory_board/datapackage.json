@@ -1,0 +1,9 @@
+{
+  "name": "advisory_board",
+  "title": "Advisory Board",
+  "resources": [{
+      "path": "advisory_board.md",
+    },{
+      "path": "assets/word/advisory_board.docx",
+    },]
+}
