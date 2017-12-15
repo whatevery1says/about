@@ -4,6 +4,10 @@
   "resources": [{
       "path": "postdoc_search_ad_2017_2018.md",
     },{
+      "path": "postdoc_search_ad_2017_2018_shorter_version.md",
+    },{
       "path": "assets/word/postdoc_search_ad_2017_2018.docx",
+    },{
+      "path": "assets/word/postdoc_search_ad_2017_2018_shorter_version.docx",
     },]
 }
