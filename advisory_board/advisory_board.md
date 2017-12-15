@@ -32,7 +32,7 @@
 
 [Élika Ortega](https://www.northeastern.edu/cssh/faculty/elika-ortega-guzman)
 
-- Assistant Professor of Cultures, Societies and Global Studies, Northeastern University; Chair, [Global Outlook::Digital Humanities (GO::DH)](http://www.globaloutlookdh.org/)
+- Assistant Professor of Cultures, Societies and Global Studies, Northeastern University
 
 [Thomas Padilla](http://www.thomaspadilla.org/)
 
@@ -44,7 +44,7 @@
 
 [Stéfan Sinclair](https://www.mcgill.ca/langlitcultures/faculty/full-time-faculty-0/stefan-sinclair)
 
-- Associate Professor, Languages, Literatures, and Cultures (Digital Humanities), McGill University; Co-creator, [Voyant Tools](http://voyant-tools.org/); Vice President, [Association for Computers and the Humanities (ACH)](http://ach.org/); Vice President, [Canadian Society for Digital Humanities / Société pour l&#39;étude de médias interactifs (SDH/SEMI)](http://sdh-semi.org/)
+- Associate Professor, Languages, Literatures, and Cultures (Digital Humanities), McGill University; Co-creator, [Voyant Tools](http://voyant-tools.org/); Director, [McGill Centre for Digital Humanities](https://www.mcgill.ca/digital-humanities/)
 
 [Catherine Knight Steele](http://www.catherineknightsteele.com/)
 
@@ -60,4 +60,4 @@
 
 ---
 
-(Last updated: 14 Dec. 2017)
+(Last updated: 15 Dec. 2017)
