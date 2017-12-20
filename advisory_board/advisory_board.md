@@ -44,7 +44,7 @@
 
 [Stéfan Sinclair](https://www.mcgill.ca/langlitcultures/faculty/full-time-faculty-0/stefan-sinclair)
 
-- Associate Professor, Languages, Literatures, and Cultures (Digital Humanities), McGill University; Co-creator, [Voyant Tools](http://voyant-tools.org/); Director, [McGill Centre for Digital Humanities](https://www.mcgill.ca/digital-humanities/)
+- Associate Professor, Languages, Literatures, and Cultures (Digital Humanities), McGill University; Co-creator, [Voyant Tools](http://voyant-tools.org/); Director, [McGill Centre for Digital Humanities](http://digihum.mcgill.ca/)
 
 [Catherine Knight Steele](http://www.catherineknightsteele.com/)
 
