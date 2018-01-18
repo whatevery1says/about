@@ -1,3 +1,11 @@
+<style type="text/css">
+  ul {
+	list-style-type: none;
+	padding: 0;
+	margin-left: 1em;
+	margin-top: -1.5em;
+	margin-bottom: 15px;
+</style>
 [Katherine Bode](https://researchers.anu.edu.au/researchers/bode-k)
 
 - Associate Professor of Literary and Textual Studies, School of Literature, Languages and Linguistics, Australian National University
@@ -24,7 +32,7 @@
 
 [Ryan Heuser](http://ryanheuser.org/)
 
-- D. student, Department of English, Stanford University; member and former Associate Research Director, [Stanford Literary Lab](https://litlab.stanford.edu/)
+- Ph. D. student, Department of English, Stanford University; member and former Associate Research Director, [Stanford Literary Lab](https://litlab.stanford.edu/)
 
 [Kelley Kreitz](https://kelleykreitz.com/about-1/)
 

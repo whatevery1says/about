@@ -14,7 +14,7 @@
 
 ---
 
-### WE1S Graduate Student
+### WE1S Graduate Students
 
 - [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)
 - [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, U. Miami)
@@ -26,7 +26,23 @@
 - [Tarika Sankar](http://www.as.miami.edu/english/graduate/current-phd-students/#Tarika) (English, U. Miami)
 - [Annie Schmalstig](http://www.as.miami.edu/english/graduate/current-phd-students/#Anne) (English, U. Miami)
 - [Tyler Shoemaker](http://www.english.ucsb.edu/people/shoemaker-tyler) (English, UCSB)
-- [Xiuhe Zhang](http://www.filmandmedia.ucsb.edu/people/grads/zhang/zhang.html) (Film/Media Studies, UCSB)
+
+---
+
+### WE1S Text-Analysis Hacker Group
+
+### Faculty
+
+- [Fermín Moscoso del Prado Martín](http://www.linguistics.ucsb.edu/people/fermin-moscoso-del-prado-martin), Assistant Professor of Linguistics, UC Santa Barbara
+
+### Graduate Students
+
+- [Sandra Auderset](http://www.linguistics.ucsb.edu/people/sandra-auderset)(Linguistics, UCSB)
+- [Devin Cornell](https://dcornellresearch.org/about/) (Sociology, UCSB)
+- [Nicholas Lester](http://www.linguistics.ucsb.edu/people/nick-lester)(Linguistics, UCSB)
+- [Fabian Offert](https://zentralwerkstatt.org/post_spt.html) (Media Arts &amp; Technology, UCSB)
+- [Teddy Roland](https://teddyroland.com/) (English, UCSB)
+- [Chloe Willis](http://www.linguistics.ucsb.edu/people/chloe-willis) (Linguistics, UCSB)
 
  ---
 
@@ -47,6 +63,7 @@
 - [Teddy Roland](https://teddyroland.com/about/) (English, UCSB)
 - [Fowzia Sharmeen](http://fowziasharmeen.weebly.com/about.html) (English, CSUN)
 - [Christopher Walker](https://www.english.ucsb.edu/people/walker-christopher) (English, UCSB)
+- [Xiuhe Zhang](http://www.filmandmedia.ucsb.edu/people/grads/zhang/zhang.html) (Film/Media Studies, UCSB)
 
 ---
 
@@ -60,4 +77,4 @@
 
 ### Also see: Advisory Board [TBD]
 
-(Last updated: 14 Dec. 2017)
+(Last updated: 17 Jan. 2018)
