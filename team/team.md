@@ -3,7 +3,8 @@
 - [Alan Liu](http://liu.english.ucsb.edu/), Principal Investigator; Professor of English, UC Santa Barbara
 - [Jeremy Douglass](https://www.english.ucsb.edu/people/douglass-jeremy), Co-PI; Assistant Professor of English, UC Santa Barbara
 - [Scott Kleinman](http://scottkleinman.com/), Co-PI; Professor of English, California State University, Northridge
-- [Lindsay Thomas](http://lindsaythomas.net/), Co-PI; Assistant Professor of English, Miami University
+- [Lindsay Thomas](http://lindsaythomas.net/), Co-PI; Assistant Professor of English, University of Miami
+- [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina), Project Manager; PhD Candidate in English, University of Miami
 
 ---
 
@@ -16,7 +17,6 @@
 
 ### WE1S Graduate Students
 
-- [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)
 - [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, U. Miami)
 - Sandra Fernandez (English, CSUN)
 - [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB)
