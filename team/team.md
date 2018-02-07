@@ -17,7 +17,6 @@
 
 ### WE1S Graduate Students
 
-- [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)
 - [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, U. Miami)
 - Sandra Fernandez (English, CSUN)
 - [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB)
@@ -78,4 +77,8 @@
 
 ### Also see: Advisory Board [TBD]
 
-(Last updated: 17 Jan. 2018)
+<<<<<<< HEAD
+(Last updated: 4 Feb. 2018)
+=======
+(Last updated: 4 Feb. 2018)
+>>>>>>> 71b35fb4955017d6c67cb89bf6c722ddd63ecc5e
