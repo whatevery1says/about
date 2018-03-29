@@ -5,6 +5,7 @@
 - [Scott Kleinman](http://scottkleinman.com/), Co-PI; Professor of English, California State University, Northridge
 - [Lindsay Thomas](http://lindsaythomas.net/), Co-PI; Assistant Professor of English, University of Miami
 - [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina), Project Manager; PhD Candidate in English, University of Miami
+- [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina), Analyses and Reports Editor; PhD Student in English, UCSB
 
 ---
 
@@ -20,7 +21,6 @@
 - [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, U. Miami)
 - Sandra Fernandez (English, CSUN)
 - [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB)
-- [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
 - [Aili Pettersson Peeker](http://www.english.ucsb.edu/people/pettersson-peeker-aili) (English, UCSB)
 - [Jamal Russell](https://www.english.ucsb.edu/people/russell-jamal) (English, UCSB)
 - [Tarika Sankar](http://www.as.miami.edu/english/graduate/current-phd-students/#Tarika) (English, U. Miami)
