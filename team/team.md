@@ -12,6 +12,12 @@
 - [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina), Analyses and Reports Editor; PhD Student in English, UCSB
 
 <div style="height: 30px; margin-left: -1.5em; margin-top: 2.5em; margin-bottom: -1em; border-left: 5px solid #cccccc; border-top: 5px solid #cccccc;">&nbsp;</div>
+### Postdoctoral Scholars
+
+- Dan Costa Baciu (Ph.D., 2018, Architectural History, Illinois Institute of Technology; HathiTrust Research Center Advanced Collaborative Support awardee) -- [ORCID page](http://orcid.org/0000-0002-0043-5616) | [HathiTrust Research Center project report](https://wiki.htrc.illinois.edu/download/attachments/31588360/HTRC_ACS_report171001.pdf?version=1&modificationDate=1506961016000&api=v2) | [SAATCHI Art profile](https://www.saatchiart.com/Dan.Baciu)
+- [Abigail Droge](https://english.stanford.edu/people/abigail-droge) (Ph.D., 2018, English, Stanford University; Stanford Literary Lab member)
+
+<div style="height: 30px; margin-left: -1.5em; margin-top: 2.5em; margin-bottom: -1em; border-left: 5px solid #cccccc; border-top: 5px solid #cccccc;">&nbsp;</div>
 ### Other Research Faculty &amp; Staff
 
 - [Mauro Carassai](https://www.csun.edu/faculty/profiles/mauro.carassai) Assistant Professor of Liberal Studies, California State University, Northridge
@@ -30,7 +36,7 @@
 
 - [Rebecca Baker](http://www.english.ucsb.edu/people/baker-rebecca) (English, UCSB)
 - Sandra Fernandez (English, CSUN)
-- [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB)
+- [Nazanin Keynejad](http://www.complit.ucsb.edu/people/graduate-students?page=1) (Comparative Literature, UCSB; WE1S Bibliography Editor)
 - [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina) (English, UCSB)
 - [Aili Pettersson Peeker](http://www.english.ucsb.edu/people/pettersson-peeker-aili) (English, UCSB)
 - [Jamal Russell](https://www.english.ucsb.edu/people/russell-jamal) (English, UCSB)
@@ -55,7 +61,7 @@
 
 #### Graduate Students
 
-- [Sandra Auderset](http://www.linguistics.ucsb.edu/people/sandra-auderset)(Linguistics, UCSB)
+- [Sandra Auderset] (http://www.linguistics.ucsb.edu/people/sandra-auderset)(Linguistics, UCSB)
 - [Devin Cornell](https://dcornellresearch.org/about/) (Sociology, UCSB)
 - [Fabian Offert](https://zentralwerkstatt.org/post_spt.html) (Media Arts &amp; Technology, UCSB)
 - [Teddy Roland](https://teddyroland.com/) (English, UCSB)
