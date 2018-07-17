@@ -14,8 +14,8 @@
 <div style="height: 30px; margin-left: -1.5em; margin-top: 2.5em; margin-bottom: -1em; border-left: 5px solid #cccccc; border-top: 5px solid #cccccc;">&nbsp;</div>
 ### Postdoctoral Scholars
 
-- Dan Costa Baciu (Ph.D., 2018, Architectural History, Illinois Institute of Technology; HathiTrust Research Center Advanced Collaborative Support awardee) -- [ORCID page](http://orcid.org/0000-0002-0043-5616) | [HathiTrust Research Center project report](https://wiki.htrc.illinois.edu/download/attachments/31588360/HTRC_ACS_report171001.pdf?version=1&modificationDate=1506961016000&api=v2) | [SAATCHI Art profile](https://www.saatchiart.com/Dan.Baciu)
-- [Abigail Droge](https://english.stanford.edu/people/abigail-droge) (Ph.D., 2018, English, Stanford University; Stanford Literary Lab member)
+- [Dan Costa Baciu](http://we1s.ucsb.edu/team/dan-costa-baciu/) (Ph.D., 2018, Architectural History, Illinois Institute of Technology; HathiTrust Research Center Advanced Collaborative Support awardee) -- [ORCID page](http://orcid.org/0000-0002-0043-5616) | [HathiTrust Research Center project report](https://wiki.htrc.illinois.edu/download/attachments/31588360/HTRC_ACS_report171001.pdf?version=1&modificationDate=1506961016000&api=v2) | [SAATCHI Art profile](https://www.saatchiart.com/Dan.Baciu)
+- [Abigail Droge](http://we1s.ucsb.edu/team/abigail-droge/) (Ph.D., 2018, English, Stanford University; Stanford Literary Lab member)
 
 <div style="height: 30px; margin-left: -1.5em; margin-top: 2.5em; margin-bottom: -1em; border-left: 5px solid #cccccc; border-top: 5px solid #cccccc;">&nbsp;</div>
 ### Other Research Faculty &amp; Staff
