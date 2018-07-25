@@ -38,7 +38,7 @@
 
 - Assistant Professor of English, Pace University; Co-founder and co-director, [Pace University Babble Lab](http://www.babblelab.org/)
 
-[Élika Ortega](https://www.northeastern.edu/cssh/faculty/elika-ortega-guzman)
+[Élika Ortega](https://cssh.northeastern.edu/people/faculty/elika-ortega-guzman)
 
 - Assistant Professor of Cultures, Societies and Global Studies, Northeastern University
 
@@ -46,7 +46,7 @@
 
 - Visiting Digital Research Services Librarian, University of Nevada, Las Vegas; Principal Investigator, [Collections as Data](https://collectionsasdata.github.io/)
 
-[Benjamin M. Schmidt](https://www.northeastern.edu/cssh/faculty/benjamin-schmidt)
+[Benjamin M. Schmidt](https://cssh.northeastern.edu/people/faculty/benjamin-schmidt)
 
 - Assistant Professor of History, Northeastern University
 
