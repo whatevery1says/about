@@ -16,7 +16,7 @@
 
 [Ryan Cordell](http://ryancordell.org/)
 
-- Assistant Professor of English, Northeastern University; Principal investigator, [The Viral Texts Project](http://viraltexts.org/)
+- Associate Professor of English, Northeastern University; Principal investigator, [The Viral Texts Project](http://viraltexts.org/)
 
 [Tressie McMillan Cottom](https://tressiemc.com/)
 
