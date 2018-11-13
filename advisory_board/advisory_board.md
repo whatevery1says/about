@@ -22,7 +22,7 @@
 
 - Assistant Professor of Sociology, Virginia Commonwealth University
 
-[Gabrielle Foreman](http://www.english.udel.edu/people/Pages/bio.aspx?i=48)
+[Gabrielle Foreman](https://www.english.udel.edu/people/gforeman)
 
 - Professor of English and Professor of History and Black American Studies, University of Delaware; Founding Faculty Director and Co-founder, [Colored Conventions Project](http://coloredconventions.org/)
 
