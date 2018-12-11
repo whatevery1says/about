@@ -9,7 +9,7 @@
 ### Project Managers
 
 - [Giorgina Paiella](http://www.english.ucsb.edu/people/paiella-giorgina), Project Manager; PhD Student in English, UCSB
-- [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina), Project Manager; PhD Candidate in English, University of Miami [_Incoming_: [Tarika Sankar](http://www.as.miami.edu/english/graduate/current-phd-students/#Tarika) (English, U. Miami)]
+- [Tarika Sankar](https://tarikasankar.github.io/), Project Manager; PhD Candidate in English, University of Miami [_Former_: [Samina Ali](http://www.as.miami.edu/english/graduate/current-phd-students/#Samina) (English, U. Miami)]
 <div style="height: 30px; margin-left: -1.5em; margin-top: 2.5em; margin-bottom: -1em; border-left: 5px solid #cccccc; border-top: 5px solid #cccccc;"></div>
 ### Postdoctoral Scholars
 
